@@ -12,6 +12,7 @@ Source0:        http://prdownloads.sourceforge.net/%{module}/%{module}-%{version
 BuildRequires:  python-devel
 Provides:       %{module} = %{epoch}:%{version}-%{release}
 Requires:       python
+BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:      noarch
 
 %description
