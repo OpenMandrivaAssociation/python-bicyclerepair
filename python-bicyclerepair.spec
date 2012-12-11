@@ -40,3 +40,37 @@ all occurrences of a method. Thank You Bicycle Repair Man!
 %{py_puresitedir}/*
 
 
+
+
+%changelog
+* Tue Sep 15 2009 Thierry Vignaud <tv@mandriva.org> 0:0.9-6mdv2010.0
++ Revision: 442040
+- rebuild
+
+* Sat Jan 03 2009 Funda Wang <fwang@mandriva.org> 0:0.9-5mdv2009.1
++ Revision: 323537
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 0:0.9-4mdv2009.0
++ Revision: 259499
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 0:0.9-3mdv2009.0
++ Revision: 247386
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 0:0.9-1mdv2008.1
++ Revision: 136447
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Mon Mar 12 2007 David Walluck <walluck@mandriva.org> 0:0.9-1mdv2007.1
++ Revision: 141496
+- Import python-bicyclerepair
+
+* Sun Mar 11 2007 David Walluck <walluck@mandriva.org> 0:0.9-1mdv2007.1
+- release
+
