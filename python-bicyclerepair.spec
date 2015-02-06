@@ -2,7 +2,7 @@
 
 Name:           python-%{module}
 Version:        0.9
-Release:        %mkrel 6
+Release:        7
 Epoch:          0
 Summary:        Python Refactoring Browser
 License:        BSD
