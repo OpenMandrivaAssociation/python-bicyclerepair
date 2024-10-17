@@ -7,7 +7,7 @@ Epoch:          0
 Summary:        Python Refactoring Browser
 License:        BSD
 Group:          System/Libraries
-URL:            http://%{module}.sourceforge.net/
+URL:            https://%{module}.sourceforge.net/
 Source0:        http://prdownloads.sourceforge.net/%{module}/%{module}-%{version}.tar.gz
 BuildRequires:  python-devel
 Provides:       %{module} = %{epoch}:%{version}-%{release}
